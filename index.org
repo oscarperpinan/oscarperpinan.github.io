@@ -7,26 +7,26 @@
 
 * Papers
 
-- F. Antonanzas-Torres, A. Sanz-Garcia, F.J. Martínez-de-Pisón, O. Perpiñán-Lamigueiro, Evaluation and improvement of empirical models of global solar irradiation: Case study northern Spain, Renewable Energy, Volume 60, December 2013, Pages 604-614, ISSN 0960-1481, 10.1016/j.renene.2013.06.008: pdf.
-- F. Antoñanzas, F. Cañizares, O. Perpiñán, Comparative assessment of global irradiation from a satellite estimate model (CM SAF) and on-ground measurements (SIAR): a Spanish case study, Renewable and Sustainable Energy Reviews, Volume 21, May 2013, Pages 248-261, 10.1016/j.rser.2012.12.033: pdf, R.
-- O. Perpiñán, J. Marcos, E. Lorenzo, Electrical Power Fluctuations in a Network of DC/AC inverters in a Large PV Plant: relationship between correlation, distance and time scale, Solar Energy, Volume 88, February 2013, 10.1016/j.solener.2012.1: pdf, R.
-- O. Perpiñán, M.A. Sánchez-Urán, F. Álvarez, J. Ortego, F. Garnacho, Signal analysis and feature generation for pattern identification of partial discharges in high-voltage equipment, Electric Power Systems Research, 2013, 95:C (56-65), 10.1016/j.epsr.2012.08.016: pdf.
-- O. Perpiñán, solaR: Solar Radiation and Photovoltaic Systems with R, Journal of Statistical Software, 2012. 50(9), (1-32): pdf and code.
-- O. Perpiñán, Cost of energy and mutual shadows in a two-axis tracking PV system, Renewable Energy, 2011, doi:10.1016/j.renene.2011.12.001: pdf, R.
-- O. Perpiñán and E. Lorenzo, Analysis and synthesis of the variability of irradiance and PV power time series with the wavelet transform, Solar Energy, 85:1 (188-197), 2010, doi:10.1016/j.solener.2010.08.013): pdf (rev. 2011-12-26), scripts R (v.2), data
-- O. Perpiñán, Statistical analysis of the performance and simulation of a two-axis tracking PV system, Solar Energy, 83:11(2074–2085), 2009, doi:10.1016/j.solener.2009.08.008: pdf
-- O. Perpiñán, E. Lorenzo, M. A. Castro, and  R. Eyras. Energy payback time of grid connected pv systems: comparison between tracking and fixed systems. Progress in Photovoltaics: Research and Applications, 17:137-147, 2009: pdf (Este es un preprint de un artículo publicado en  Wiley InterScience, Copyright John Wiley & Sons Ltd http://www.interscience.wiley.com)
-- O. Perpiñán, E. Lorenzo, M. A. Castro, and  R. Eyras. On the complexity of radiation models for PV energy production calculation. Solar Energy, 82:2 (125-131), 2008: pdf
-- O. Perpiñán, E. Lorenzo, and  M. A. Castro. On the calculation of energy produced by a PV grid-connected system. Progress in Photovoltaics: Research and Applications, 15(3):265–274, 2007: pdf (Este es un preprint de un artículo publicado en  Wiley InterScience, Copyright John Wiley & Sons Ltd http://www.interscience.wiley.com)
+- F. Antonanzas-Torres, A. Sanz-Garcia, F.J. Martínez-de-Pisón, O. Perpiñán-Lamigueiro, *Evaluation and improvement of empirical models of global solar irradiation: Case study northern Spain*, Renewable Energy, Volume 60, December 2013, Pages 604-614, ISSN 0960-1481, 10.1016/j.renene.2013.06.008: pdf.
+- F. Antoñanzas, F. Cañizares, O. Perpiñán, *Comparative assessment of global irradiation from a satellite estimate model (CM SAF) and on-ground measurements (SIAR): a Spanish case study*, Renewable and Sustainable Energy Reviews, Volume 21, May 2013, Pages 248-261, 10.1016/j.rser.2012.12.033: pdf, R.
+- O. Perpiñán, J. Marcos, E. Lorenzo, *Electrical Power Fluctuations in a Network of DC/AC inverters in a Large PV Plant: relationship between correlation, distance and time scale*, Solar Energy, Volume 88, February 2013, 10.1016/j.solener.2012.1: pdf, R.
+- O. Perpiñán, M.A. Sánchez-Urán, F. Álvarez, J. Ortego, F. Garnacho, *Signal analysis and feature generation for pattern identification of partial discharges in high-voltage equipment*, Electric Power Systems Research, 2013, 95:C (56-65), 10.1016/j.epsr.2012.08.016: pdf.
+- O. Perpiñán, *solaR: Solar Radiation and Photovoltaic Systems with R*, Journal of Statistical Software, 2012. 50(9), (1-32): pdf and code.
+- O. Perpiñán, *Cost of energy and mutual shadows in a two-axis tracking PV system*, Renewable Energy, 2011, doi:10.1016/j.renene.2011.12.001: pdf, R.
+- O. Perpiñán and E. Lorenzo, *Analysis and synthesis of the variability of irradiance and PV power time series with the wavelet transform*, Solar Energy, 85:1 (188-197), 2010, doi:10.1016/j.solener.2010.08.013): pdf (rev. 2011-12-26), scripts R (v.2), data
+- O. Perpiñán, *Statistical analysis of the performance and simulation of a two-axis tracking PV system*, Solar Energy, 83:11(2074–2085), 2009, doi:10.1016/j.solener.2009.08.008: pdf
+- O. Perpiñán, E. Lorenzo, M. A. Castro, and  R. Eyras. *Energy payback time of grid connected pv systems: comparison between tracking and fixed systems*. Progress in Photovoltaics: Research and Applications, 17:137-147, 2009: pdf.
+- O. Perpiñán, E. Lorenzo, M. A. Castro, and  R. Eyras. *On the complexity of radiation models for PV energy production calculation*. Solar Energy, 82:2 (125-131), 2008: pdf
+- O. Perpiñán, E. Lorenzo, and  M. A. Castro. *On the calculation of energy produced by a PV grid-connected system*. Progress in Photovoltaics: Research and Applications, 15(3):265–274, 2007: pdf.
 
 * Software
 
-- solaR
-- rasterVis
-- pxR
-- pdCluster
+- [[http://github.com/oscarperpinan/solar][=solaR=]]
+- [[http://github.com/oscarperpinan/rastervis][=rasterVis=]]
+- [[http://cran.r-project.org/pxR][=pxR=]]
+- [[http://github.com/oscarperpinan/pdcluster][=pdCluster=]]
 
 * Resources
 
-- Displaying time series, spatial and space-time data with R
-- R tutorial (spanish)
+- [[oscarperpinan.github.io/spacetime-vis][Displaying time series, spatial and space-time data with R]]
+- [[github.com/oscarperpinan/intro][R tutorial]] (spanish)
