@@ -4,6 +4,13 @@
 #+OPTIONS:   num:nil toc:nil ^:nil
 #+STYLE:    <link rel="stylesheet" type="text/css" href="styles.css" />
 
+Photovoltaic and solar energy lecturer ([[http://www.eoi.es][EOI]]). Electrical engineering assistant professor ([[http://www.euiti.upm.es][UPM]]). R, LaTeX, Emacs enthusiast. Always learning.
+
+You can find me here:
+
+- Blog: [[http://www.procomun.wordpress.com][Omnia sunt Communia!]]
+- Twitter: [[https://twitter.com/oscarperpinan][@oscarperpinan]]
+- [[http://www.linkedin.com/in/oscarperpinan][LinkedIn]]
 
 * Papers
 
