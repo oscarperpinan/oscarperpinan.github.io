@@ -21,12 +21,12 @@
 
 * Software
 
-- [[http://github.com/oscarperpinan/solar][=solaR=]]
-- [[http://github.com/oscarperpinan/rastervis][=rasterVis=]]
-- [[http://cran.r-project.org/pxR][=pxR=]]
-- [[http://github.com/oscarperpinan/pdcluster][=pdCluster=]]
+- [[http://github.com/oscarperpinan/solar][=solaR=]]: calculation methods of solar radiation and performance of photovoltaic systems from daily and intradaily irradiation data sources.
+- [[http://github.com/oscarperpinan/rastervis][=rasterVis=]]: complements [[cran.r-project/web/packages/raster][=raster=]] providing a set of methods for enhanced visualization and interaction.
+- [[http://cran.r-project.org/web/packages/pxR][=pxR=]]: provides a set of functions for reading and writing PC-Axis files, used by different statistical organizations around the globe for data dissemination.
+- [[http://github.com/oscarperpinan/pdcluster][=pdCluster=]]: tools for feature generation, exploratory graphical analysis, clustering and variable importance quantification for [[http://en.wikipedia.org/wiki/Partial_discharge][partial discharge]] signals.
 
 * Resources
-
+- [[http://procomun.wordpress.com/documentos/libroesf/][Energía Solar Fotovoltaica]] (spanish)
 - [[oscarperpinan.github.io/spacetime-vis][Displaying time series, spatial and space-time data with R]]
 - [[github.com/oscarperpinan/intro][R tutorial]] (spanish)
