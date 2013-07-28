@@ -34,6 +34,6 @@ You can find me here:
 - [[http://github.com/oscarperpinan/pdcluster][=pdCluster=]]: tools for feature generation, exploratory graphical analysis, clustering and variable importance quantification for [[http://en.wikipedia.org/wiki/Partial_discharge][partial discharge]] signals.
 
 * Resources
-- [[http://procomun.wordpress.com/documentos/libroesf/][Energía Solar Fotovoltaica]] (spanish)
-- [[oscarperpinan.github.io/spacetime-vis][Displaying time series, spatial and space-time data with R]]
-- [[github.com/oscarperpinan/intro][R tutorial]] (spanish)
+- Libro [[http://procomun.wordpress.com/documentos/libroesf/][Energía Solar Fotovoltaica]] (spanish)
+- [[http://oscarperpinan.github.io/spacetime-vis][Displaying time series, spatial and space-time data with R]]
+- [[http://oscarperpinan.github.io/intro][R tutorial]] (spanish)
