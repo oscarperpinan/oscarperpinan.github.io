@@ -3,6 +3,7 @@
 #+AUTHOR: Oscar Perpiñán Lamigueiro
 #+OPTIONS:   num:nil toc:nil ^:nil
 #+STYLE:    <link rel="stylesheet" type="text/css" href="styles.css" />
+#+STYLE: <META HTTP-EQUIV="viewport" CONTENT="width=device-width, initial-scale=1">
 
 Photovoltaic and solar energy lecturer ([[http://www.eoi.es][EOI]]). Electrical engineering assistant professor ([[http://www.euiti.upm.es][UPM]]). R, LaTeX, Emacs enthusiast. Always learning.
 
