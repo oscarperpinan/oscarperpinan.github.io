@@ -220,7 +220,8 @@ section {
   }
   
   header ul {
-    display:none;
+      position:absolute;
+      padding-left:5px;
   }
 }
 
