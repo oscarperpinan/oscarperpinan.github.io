@@ -1,17 +1,23 @@
 #+DESCRIPTION: My Webpage
-#+TITLE: 
+#+TITLE: Oscar Perpiñán Lamigueiro
 #+AUTHOR: Oscar Perpiñán Lamigueiro
 #+OPTIONS:   num:nil toc:nil ^:nil
-#+OPTIONS: org-html-preamble nil org-html-postamble nil
+#+BIND: org-export-html-postamble nil
 #+STYLE:    <link rel="stylesheet" type="text/css" href="styles.css" />
 #+STYLE: <META NAME="viewport" CONTENT="width=device-width, initial-scale=1">
-#+STYLE: <META NAME="title" CONTENT="Oscar Perpiñán Lamigueiro">
-#+BIND: org-export-html-preamble "<div class=\"wrapper\"> <header><h1>Oscar Perpiñán Lamigueiro</h1><p>Photovoltaic and solar energy lecturer (<a href=\"http://www.eoi.es\">EOI</a>). Electrical engineering assistant professor (<a href=\"http://www.euiti.upm.es\">UPM</a>). R, LaTeX, Emacs enthusiast. Always learning.</p><p>You can find me here:</p><ul><li>Blog: <a href=\"http://www.procomun.wordpress.com\">Omnia sunt Communia!</a></li><li>Twitter: <a href=\"https://twitter.com/oscarperpinan\">@oscarperpinan</a></li><li><a href=\"http://www.linkedin.com/in/oscarperpinan\">LinkedIn</a></li></ul></header>"
-#+BIND: org-export-html-postamble "</div>"
 
-#+BEGIN_HTML
- <section>
-#+END_HTML
+#+BEGIN_header
+Photovoltaic and solar energy lecturer ([[http://www.eoi.es][EOI]]). 
+Electrical engineering assistant professor ([[http://www.euiti.upm.es][UPM]]). 
+R, LaTeX, Emacs enthusiast. 
+Always learning.
+
+You can find me here:
+
+- Blog: [[http://www.procomun.wordpress.com][Omnia sunt Communia!]]
+- Twitter: [[https://twitter.com/oscarperpinan][@oscarperpinan]]
+- [[http://www.linkedin.com/in/oscarperpinan][LinkedIn]]
+#+END_header
 
 * Papers
 
