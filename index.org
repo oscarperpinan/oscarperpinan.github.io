@@ -14,9 +14,10 @@ Always learning.
 
 You can find me here:
 
-- Blog: [[http://www.procomun.wordpress.com][Omnia sunt Communia!]]
-- Twitter: [[https://twitter.com/oscarperpinan][@oscarperpinan]]
+- [[http://www.procomun.wordpress.com][Blog]]
+- [[http://scholar.google.es/citations?user%3DFvyzSYIAAAAJ][Google Scholar]]
 - [[http://www.linkedin.com/in/oscarperpinan][LinkedIn]]
+- Twitter: [[https://twitter.com/oscarperpinan][@oscarperpinan]]
 
 #+BEGIN_HTML
   <script type="text/javascript">
@@ -43,8 +44,8 @@ You can find me here:
 
 * Software
 
-- [[http://github.com/oscarperpinan/solar][=solaR=]]: calculation methods of solar radiation and performance of photovoltaic systems from daily and intradaily irradiation data sources.
-- [[http://github.com/oscarperpinan/rastervis][=rasterVis=]]: complements [[cran.r-project/web/packages/raster][=raster=]] providing a set of methods for enhanced visualization and interaction.
+- [[http://oscarperpinan.github.io/solar][=solaR=]]: calculation methods of solar radiation and performance of photovoltaic systems from daily and intradaily irradiation data sources.
+- [[http://oscarperpinan.github.io/rastervis][=rasterVis=]]: complements [[cran.r-project/web/packages/raster][=raster=]] providing a set of methods for enhanced visualization and interaction.
 - [[http://cran.r-project.org/web/packages/pxR][=pxR=]]: provides a set of functions for reading and writing PC-Axis files, used by different statistical organizations around the globe for data dissemination.
 - [[http://github.com/oscarperpinan/pdcluster][=pdCluster=]]: tools for feature generation, exploratory graphical analysis, clustering and variable importance quantification for [[http://en.wikipedia.org/wiki/Partial_discharge][partial discharge]] signals.
 
