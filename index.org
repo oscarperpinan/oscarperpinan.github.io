@@ -54,10 +54,3 @@ You can find me here:
 - [[http://oscarperpinan.github.io/spacetime-vis][Displaying time series, spatial and space-time data with R]]
 - [[http://oscarperpinan.github.io/intro][R tutorial]] (spanish)
 
-#+BEGIN_HTML
- </section>
-#+END_HTML
-
-#+BEGIN_HTML
-</div>
-#+END_HTML
