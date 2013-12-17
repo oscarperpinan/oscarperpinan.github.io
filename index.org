@@ -15,6 +15,7 @@ Always learning.
 You can find me here:
 
 - [[http://www.procomun.wordpress.com][Blog]]
+- [[http://impactstory.org/oscarperpinan][ImpactStory]]
 - [[http://scholar.google.es/citations?user%3DFvyzSYIAAAAJ][Google Scholar]]
 - [[http://www.linkedin.com/in/oscarperpinan][LinkedIn]]
 - Twitter: [[https://twitter.com/oscarperpinan][@oscarperpinan]]
@@ -50,7 +51,8 @@ You can find me here:
 - [[http://github.com/oscarperpinan/pdcluster][=pdCluster=]]: tools for feature generation, exploratory graphical analysis, clustering and variable importance quantification for [[http://en.wikipedia.org/wiki/Partial_discharge][partial discharge]] signals.
 
 * Resources
-- Libro [[http://procomun.wordpress.com/documentos/libroesf/][Energía Solar Fotovoltaica]] (spanish)
+- Libro de [[http://procomun.wordpress.com/documentos/libroesf/][Energía Solar Fotovoltaica]] (spanish)
+- Diapositivas sobre [[http://www.slideshare.net/oscarperpinan][Energía Solar Fotovoltaica]] (spanish)
 - [[http://oscarperpinan.github.io/spacetime-vis][Displaying time series, spatial and space-time data with R]]
 - [[http://oscarperpinan.github.io/intro][R tutorial]] (spanish)
 
