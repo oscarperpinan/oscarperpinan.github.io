@@ -33,7 +33,7 @@ You can find me here:
 
 - [[http://www.taylorandfrancis.com/books/details/9781466565203/][Displaying time series, spatial and space-time data with R]] ([[http://oscarperpinan.github.io/spacetime-vis][code and figures]])
   #+ATTR_HTML: :height 240
-  [[http://oscarperpinan.github.io/spacetime-vis][http://images.tandf.co.uk/common/jackets/weblarge/978146656/9781466565203.jpg]]
+  [[http://books.google.com/books/p/tandf_uk-aa_balkema2?id%3DQ5A-AwAAQBAJ&printsec%3Dfrontcover&hl%3Des&source%3Dgbs_ViewAPI][http://images.tandf.co.uk/common/jackets/weblarge/978146656/9781466565203.jpg]]
   A data graphic is not only a static image, but it also tells a story
   about the data. It activates cognitive processes that are able to
   detect patterns and discover information not readily available with
