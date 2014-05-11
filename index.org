@@ -26,40 +26,38 @@ R, LaTeX, Emacs enthusiast. Always learning.
 
 * Books
 
-- [[http://www.taylorandfrancis.com/books/details/9781466565203/][Displaying time series, spatial and space-time data with R]] ([[http://oscarperpinan.github.io/spacetime-vis][code and figures]])
+- [[http://www.taylorandfrancis.com/books/details/9781466565203/][*Displaying time series, spatial and space-time data with R*]] ([[http://oscarperpinan.github.io/spacetime-vis][code and figures]]) ::
   #+ATTR_HTML: :height 240
   [[http://goo.gl/6iN5KR][http://images.tandf.co.uk/common/jackets/weblarge/978146656/9781466565203.jpg]]
-  A data graphic is not only a static image, but it also tells a story
-  about the data. It activates cognitive processes that are able to
-  detect patterns and discover information not readily available with
-  the raw data. This is particularly true for time series, spatial,
-  and space-time datasets.
+     A data graphic is not only a static image, but it also tells a
+     story about the data. It activates cognitive processes that are
+     able to detect patterns and discover information not readily
+     available with the raw data. This is particularly true for time
+     series, spatial, and space-time datasets. Focusing on the
+     exploration of data with visual methods, "Displaying Time Series,
+     Spatial, and Space-Time Data with R" presents methods and R code
+     for producing high-quality graphics of time series, spatial, and
+     space-time data. Practical examples using real-world datasets
+     help you understand how to apply the methods and code.  The book
+     illustrates how to display a dataset starting with an easy and
+     direct approach and progressively adding improvements that
+     involve more complexity. Each of the book’s three parts is
+     devoted to different types of data. In each part, the chapters
+     are grouped according to the various visualization methods or
+     data characteristics. Along with the main graphics from the text,
+     the [[http://oscarperpinan.github.io/spacetime-vis][book’s website]] offers access to the datasets used in the
+     examples as well as the [[https://github.com/oscarperpinan/spacetime-vis][full R code]]. This combination of freely
+     available code and data enables you to practice with the methods
+     and modify the code to suit your own needs.
 
-    Focusing on the exploration of data with visual methods,
-  "Displaying Time Series, Spatial, and Space-Time Data with R"
-  presents methods and R code for producing high-quality graphics of
-  time series, spatial, and space-time data. Practical examples using
-  real-world datasets help you understand how to apply the methods and
-  code.  The book illustrates how to display a dataset starting with
-  an easy and direct approach and progressively adding improvements
-  that involve more complexity. Each of the book’s three parts is
-  devoted to different types of data. In each part, the chapters are
-  grouped according to the various visualization methods or data
-  characteristics. 
-  
-  Along with the main graphics from the text, the [[http://oscarperpinan.github.io/spacetime-vis][book’s website]]
-  offers access to the datasets used in the examples as well as the
-  [[https://github.com/oscarperpinan/spacetime-vis][full R code]]. This combination of freely available code and data
-  enables you to practice with the methods and modify the code to suit
-  your own needs.
-
-- [[http://procomun.wordpress.com/documentos/libroesf/][Energía Solar Fotovoltaica]] (spanish)
+- [[http://procomun.wordpress.com/documentos/libroesf/][Energía Solar Fotovoltaica]] (spanish) ::
 
 
 
 
 * Papers
-- F. Antonanzas-Torres, F.J. Martínez de Pisón, J. Antonanzas, O. Perpiñán, *Downscaling of global solar irradiation in R*, November 2013, [[http://arxiv.org/abs/1311.7235][arXiv:1311.7235]], [[https://github.com/EDMANSolar/downscaling][code]].
+
+- F. Antonanzas-Torres, F.J. Martínez de Pisón, J. Antonanzas, O. Perpiñán, *Downscaling of global solar irradiation in R*, November 2013, [[http://arxiv.org/abs/1311.7235][arXiv:1311.7235]], [[https://github.com/EDMANSolar/downscaling][code]] ::
 
   A methodology for downscaling solar irradiation from
   satellite-derived databases is described using R software. Different
@@ -79,7 +77,7 @@ R, LaTeX, Emacs enthusiast. Always learning.
   database.
 
 
-- F. Antonanzas-Torres, A. Sanz-Garcia, F.J. Martínez-de-Pisón, O. Perpiñán, *Evaluation and improvement of empirical models of global solar irradiation: Case study northern Spain*, Renewable Energy, Volume 60, December 2013, Pages 604-614, ISSN 0960-1481, 10.1016/j.renene.2013.06.008: [[https://copy.com/Gz19eUARoR9Y/preprints/Antonanzas-Torres.Sanz-Garcia.ea2013.pdf?download=1][pdf]].
+- F. Antonanzas-Torres, A. Sanz-Garcia, F.J. Martínez-de-Pisón, O. Perpiñán, *Evaluation and improvement of empirical models of global solar irradiation: Case study northern Spain*, Renewable Energy, Volume 60, December 2013, Pages 604-614, ISSN 0960-1481, 10.1016/j.renene.2013.06.008: [[https://copy.com/Gz19eUARoR9Y/preprints/Antonanzas-Torres.Sanz-Garcia.ea2013.pdf?download=1][pdf]] ::
 
   This paper presents a new methodology to build parametric models to
   estimate global solar irradiation adjusted to specific on-site
@@ -107,7 +105,8 @@ R, LaTeX, Emacs enthusiast. Always learning.
   solar irradiation, reaching insignificant differences between
   measurements from pyranometers.
 
-- F. Antoñanzas, F. Cañizares, O. Perpiñán, *Comparative assessment of global irradiation from a satellite estimate model (CM SAF) and on-ground measurements (SIAR): a Spanish case study*, Renewable and Sustainable Energy Reviews, Volume 21, May 2013, Pages 248-261, 10.1016/j.rser.2012.12.033: [[https://copy.com/Gz19eUARoR9Y/preprints/Antonanzas.Canizares.ea2013.pdf?download=1][pdf]], [[https://github.com/oscarperpinan/CMSAF-SIAR][code]].
+
+- F. Antoñanzas, F. Cañizares, O. Perpiñán, *Comparative assessment of global irradiation from a satellite estimate model (CM SAF) and on-ground measurements (SIAR): a Spanish case study*, Renewable and Sustainable Energy Reviews, Volume 21, May 2013, Pages 248-261, 10.1016/j.rser.2012.12.033: [[https://copy.com/Gz19eUARoR9Y/preprints/Antonanzas.Canizares.ea2013.pdf?download=1][pdf]], [[https://github.com/oscarperpinan/CMSAF-SIAR][code]] ::
   
   An analysis and comparison of daily and yearly solar irradiation
   from the satellite CM SAF database and a set of 301 stations from
@@ -129,7 +128,8 @@ R, LaTeX, Emacs enthusiast. Always learning.
   software, available as supplementary material, and the data sources
   are freely available without restrictions.
 
-- O. Perpiñán, J. Marcos, E. Lorenzo, *Electrical Power Fluctuations in a Network of DC/AC inverters in a Large PV Plant: relationship between correlation, distance and time scale*, Solar Energy, Volume 88, February 2013, 10.1016/j.solener.2012.1: [[https://copy.com/Gz19eUARoR9Y/preprints/Perpinan.Marcos.ea2013.pdf?download=1][pdf]], [[https://github.com/oscarperpinan/wavCorPV][code]].
+
+- O. Perpiñán, J. Marcos, E. Lorenzo, *Electrical Power Fluctuations in a Network of DC/AC inverters in a Large PV Plant: relationship between correlation, distance and time scale*, Solar Energy, Volume 88, February 2013, 10.1016/j.solener.2012.1: [[https://copy.com/Gz19eUARoR9Y/preprints/Perpinan.Marcos.ea2013.pdf?download=1][pdf]], [[https://github.com/oscarperpinan/wavCorPV][code]] ::
 
   This paper analyzes the correlation between the fluctuations of the
   electrical power generated by the ensemble of 70 DC/AC inverters
@@ -151,7 +151,8 @@ R, LaTeX, Emacs enthusiast. Always learning.
   intermediate time scales the correlation depends strongly on the
   daily fluctuation level.
 
-- O. Perpiñán, M.A. Sánchez-Urán, F. Álvarez, J. Ortego, F. Garnacho, *Signal analysis and feature generation for pattern identification of partial discharges in high-voltage equipment*, Electric Power Systems Research, 2013, 95:C (56-65), 10.1016/j.epsr.2012.08.016: [[https://copy.com/Gz19eUARoR9Y/preprints/Perpinan.Sanchez-Uran.ea2013.pdf?download=1][pdf]].
+
+- O. Perpiñán, M.A. Sánchez-Urán, F. Álvarez, J. Ortego, F. Garnacho, *Signal analysis and feature generation for pattern identification of partial discharges in high-voltage equipment*, Electric Power Systems Research, 2013, 95:C (56-65), 10.1016/j.epsr.2012.08.016: [[https://copy.com/Gz19eUARoR9Y/preprints/Perpinan.Sanchez-Uran.ea2013.pdf?download=1][pdf]] ::
 
     This paper proposes a method for the identification of different
   partial discharges (PD) sources through the analysis of a collection
@@ -170,7 +171,8 @@ R, LaTeX, Emacs enthusiast. Always learning.
   discrimination between original PD signals, reflections, noise and
   external interferences.
 
-- O. Perpiñán, *solaR: Solar Radiation and Photovoltaic Systems with R*, Journal of Statistical Software, 2012. 50(9), (1-32): [[http://www.jstatsoft.org/v50/i09/][pdf and code]].
+
+- O. Perpiñán, *solaR: Solar Radiation and Photovoltaic Systems with R*, Journal of Statistical Software, 2012. 50(9), (1-32): [[http://www.jstatsoft.org/v50/i09/][pdf and code]] ::
 
   The =solaR= package allows for reproducible research both for
   photovoltaics systems performance and solar radiation. It includes a
@@ -191,7 +193,8 @@ R, LaTeX, Emacs enthusiast. Always learning.
   conditions, it can be easily combined with spatial packages for
   space-time analysis.
 
-- O. Perpiñán, *Cost of energy and mutual shadows in a two-axis tracking PV system*, Renewable Energy, 2011, 10.1016/j.renene.2011.12.001: [[http://oa.upm.es/10219/1/Optimization_Perpinan2011_rev20120201.pdf][pdf]], [[https://github.com/oscarperpinan/costOptimization][code]].
+
+- O. Perpiñán, *Cost of energy and mutual shadows in a two-axis tracking PV system*, Renewable Energy, 2011, 10.1016/j.renene.2011.12.001: [[http://oa.upm.es/10219/1/Optimization_Perpinan2011_rev20120201.pdf][pdf]], [[https://github.com/oscarperpinan/costOptimization][code]] ::
   
   The performance improvement obtained from the use of trackers in a
   PV system cannot be separated from the higher requirement of land
@@ -207,7 +210,7 @@ R, LaTeX, Emacs enthusiast. Always learning.
   equipment costs.
 
 
-- O. Perpiñán and E. Lorenzo, *Analysis and synthesis of the variability of irradiance and PV power time series with the wavelet transform*, Solar Energy, 85:1 (188-197), 2010, 10.1016/j.solener.2010.08.013): [[http://oa.upm.es/4953/1/Perpinan.Lorenzo2010.pdf][pdf]] (rev. 2011-12-26), [[https://github.com/oscarperpinan/irradWavelet][code]], [[http://www.box.net/shared/eoumayg1em8g61c5urjy][data]].
+- O. Perpiñán and E. Lorenzo, *Analysis and synthesis of the variability of irradiance and PV power time series with the wavelet transform*, Solar Energy, 85:1 (188-197), 2010, 10.1016/j.solener.2010.08.013): [[http://oa.upm.es/4953/1/Perpinan.Lorenzo2010.pdf][pdf]] (rev. 2011-12-26), [[https://github.com/oscarperpinan/irradWavelet][code]], [[http://www.box.net/shared/eoumayg1em8g61c5urjy][data]] ::
 
   The irradiance fluctuations and the subsequent variability of the
   power output of a PV system are analysed with some mathematical
@@ -230,7 +233,7 @@ R, LaTeX, Emacs enthusiast. Always learning.
   spectral exponent show that a PV plant behaves as a low-pass filter.
 
 
-- O. Perpiñán, *Statistical analysis of the performance and simulation of a two-axis tracking PV system*, Solar Energy, 83:11(2074–2085), 2009, 10.1016/j.solener.2009.08.008: [[http://oa.upm.es/1843/1/PERPINAN_ART2009_01.pdf][pdf]]
+- O. Perpiñán, *Statistical analysis of the performance and simulation of a two-axis tracking PV system*, Solar Energy, 83:11(2074–2085), 2009, 10.1016/j.solener.2009.08.008: [[http://oa.upm.es/1843/1/PERPINAN_ART2009_01.pdf][pdf]] ::
 
   The energy produced by a photovoltaic system over a given period can
   be estimated from the incident radiation at the site where the Grid
@@ -251,7 +254,8 @@ R, LaTeX, Emacs enthusiast. Always learning.
   the performance of a GCPVS is carried out as a detection method of
   malfunctioning parts of the system.
 
-- O. Perpiñán, E. Lorenzo, M. A. Castro, and  R. Eyras. *Energy payback time of grid connected pv systems: comparison between tracking and fixed systems*. Progress in Photovoltaics: Research and Applications, 17:137-147, 2009: [[http://oa.upm.es/20818/1/Perpinan.Lorenzo.ea2009.pdf][pdf]].
+
+- O. Perpiñán, E. Lorenzo, M. A. Castro, and  R. Eyras. *Energy payback time of grid connected pv systems: comparison between tracking and fixed systems*. Progress in Photovoltaics: Research and Applications, 17:137-147, 2009: [[http://oa.upm.es/20818/1/Perpinan.Lorenzo.ea2009.pdf][pdf]] ::
 
   A review of existing studies about LCA of PV systems has been carried
   out.  The data from this review have been completed with our own
@@ -273,7 +277,8 @@ R, LaTeX, Emacs enthusiast. Always learning.
   contribution is widely compensated by the improved productivity of
   the system.
 
-- O. Perpiñán, E. Lorenzo, M. A. Castro, and  R. Eyras. *On the complexity of radiation models for PV energy production calculation*. Solar Energy, 82:2 (125-131), 2008: [[http://oa.upm.es/20819/1/Perpinan.Lorenzo.ea2008.pdf][pdf]]
+
+- O. Perpiñán, E. Lorenzo, M. A. Castro, and  R. Eyras. *On the complexity of radiation models for PV energy production calculation*. Solar Energy, 82:2 (125-131), 2008: [[http://oa.upm.es/20819/1/Perpinan.Lorenzo.ea2008.pdf][pdf]] ::
 
  Several authors have analysed the changes of the probability density
   function of the solar radiation with different time resolutions.
@@ -289,7 +294,7 @@ R, LaTeX, Emacs enthusiast. Always learning.
   the result of energy estimations.
 
 
-- O. Perpiñán, E. Lorenzo, and  M. A. Castro. *On the calculation of energy produced by a PV grid-connected system*. Progress in Photovoltaics: Research and Applications, 15(3):265–274, 2007: [[http://oa.upm.es/20820/1/Perpinan.Lorenzo.ea2007.pdf][pdf]].
+- O. Perpiñán, E. Lorenzo, and  M. A. Castro. *On the calculation of energy produced by a PV grid-connected system*. Progress in Photovoltaics: Research and Applications, 15(3):265–274, 2007: [[http://oa.upm.es/20820/1/Perpinan.Lorenzo.ea2007.pdf][pdf]] ::
 
   This study develops a proposal of method of calculation useful to
   estimate the energy produced by a PV grid-connected system making
@@ -300,12 +305,13 @@ R, LaTeX, Emacs enthusiast. Always learning.
   parameters. This way, only simple calculations at the reach of
   pocket calculators, are enough to estimate AC energy.
 
+
 * Software
 
-- [[http://oscarperpinan.github.io/solar][=solaR=]]: calculation methods of solar radiation and performance of photovoltaic systems from daily and intradaily irradiation data sources.
-- [[http://oscarperpinan.github.io/rastervis][=rasterVis=]]: complements [[cran.r-project/web/packages/raster][=raster=]] providing a set of methods for enhanced visualization and interaction.
-- [[http://cran.r-project.org/web/packages/pxR][=pxR=]]: provides a set of functions for reading and writing PC-Axis files, used by different statistical organizations around the globe for data dissemination.
-- [[http://github.com/oscarperpinan/pdcluster][=pdCluster=]]: tools for feature generation, exploratory graphical analysis, clustering and variable importance quantification for [[http://en.wikipedia.org/wiki/Partial_discharge][partial discharge]] signals.
+- [[http://oscarperpinan.github.io/solar][=solaR=]] :: calculation methods of solar radiation and performance of photovoltaic systems from daily and intradaily irradiation data sources.
+- [[http://oscarperpinan.github.io/rastervis][=rasterVis=]] :: complements [[cran.r-project/web/packages/raster][=raster=]] providing a set of methods for enhanced visualization and interaction.
+- [[http://cran.r-project.org/web/packages/pxR][=pxR=]] :: provides a set of functions for reading and writing PC-Axis files, used by different statistical organizations around the globe for data dissemination.
+- [[http://github.com/oscarperpinan/pdcluster][=pdCluster=]] :: tools for feature generation, exploratory graphical analysis, clustering and variable importance quantification for [[http://en.wikipedia.org/wiki/Partial_discharge][partial discharge]] signals.
 
 
 * Resources
