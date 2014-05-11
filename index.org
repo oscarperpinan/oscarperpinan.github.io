@@ -5,6 +5,7 @@
 #+BIND: org-html-postamble nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles.css" />
 #+HTML_HEAD: <META NAME="viewport" CONTENT="width=device-width, initial-scale=1">
+#+HTML_HEAD: <link rel="icon" type="image/ico" href="favicon.ico">
 
 #+BEGIN_header
 [[http://oscarperpinan.github.io/#sec-1][Books]] [[http://oscarperpinan.github.io/#sec-2][Papers]] [[http://oscarperpinan.github.io/#sec-3][Software]] [[http://oscarperpinan.github.io/#sec-4][Resources]]
