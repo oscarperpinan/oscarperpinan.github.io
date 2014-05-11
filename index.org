@@ -3,30 +3,25 @@
 #+AUTHOR: Oscar Perpiñán Lamigueiro
 #+OPTIONS:   num:nil toc:nil ^:nil
 #+BIND: org-html-postamble nil
-#+HTML_HEAD:    <link rel="stylesheet" type="text/css" href="styles.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles.css" />
 #+HTML_HEAD: <META NAME="viewport" CONTENT="width=device-width, initial-scale=1">
 
 #+BEGIN_header
+[[http://oscarperpinan.github.io/#sec-1][Books]] [[http://oscarperpinan.github.io/#sec-2][Papers]] [[http://oscarperpinan.github.io/#sec-3][Software]] [[http://oscarperpinan.github.io/#sec-4][Resources]]
+
 Photovoltaic and solar energy lecturer ([[http://www.eoi.es][EOI]]). 
 Electrical engineering assistant professor ([[http://www.euiti.upm.es][UPM]]). 
-R, LaTeX, Emacs enthusiast. 
-Always learning.
-
-You can find me here:
-
-- [[http://www.procomun.wordpress.com][Blog]]
-- [[http://impactstory.org/oscarperpinan][ImpactStory]]
-- [[http://scholar.google.es/citations?user%3DFvyzSYIAAAAJ][Google Scholar]]
-- [[http://www.linkedin.com/in/oscarperpinan][LinkedIn]]
-- Twitter: [[https://twitter.com/oscarperpinan][@oscarperpinan]]
+R, LaTeX, Emacs enthusiast. Always learning.
 
 #+BEGIN_HTML
-  <script type="text/javascript">
-          document.write("<n uers=\"znvygb:bfpne.crecvana@tznvy.pbz\" ery=\"absbyybj\">Fraq zr n zrffntr</n>".replace(/[a-zA-Z]/g, 
-          function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
-  </script>
+<a href="http://procomun.wordpress.com"><span class="icon-wordpress"></span></a>
+<a href="https://github.com/oscarperpinan/"><span class="icon-github"></span></a>
+<a href="http://scholar.google.es/citations?user=FvyzSYIAAAAJ"><span class="icon-google"></span></a>
+<a href="http://www.linkedin.com/in/oscarperpinan"><span class="icon-linkedin"></span></a>
+<a href="https://twitter.com/oscarperpinan"><span class="icon-twitter"></span></a>
+<a href="http://stackoverflow.com/users/964866/oscar-perpinan"><span class="icon-stackoverflow"></span></a>
+<a href="mailto:&#111;&#115;&#099;&#097;&#114;&#046;&#112;&#101;&#114;&#112;&#105;&#110;&#097;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"><span class="icon-mail"></span></a>
 #+END_HTML
-
 #+END_header
 
 * Books
