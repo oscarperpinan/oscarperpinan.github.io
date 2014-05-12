@@ -324,13 +324,14 @@ R, LaTeX, Emacs enthusiast. Always learning.
 
 * Software
 
-- [[http://oscarperpinan.github.io/solar][=solaR=]] :: calculation methods of solar radiation and performance of photovoltaic systems from daily and intradaily irradiation data sources.
-- [[http://oscarperpinan.github.io/rastervis][=rasterVis=]] :: complements [[cran.r-project/web/packages/raster][=raster=]] providing a set of methods for enhanced visualization and interaction.
-- [[http://cran.r-project.org/web/packages/pxR][=pxR=]] :: provides a set of functions for reading and writing PC-Axis files, used by different statistical organizations around the globe for data dissemination.
-- [[http://github.com/oscarperpinan/pdcluster][=pdCluster=]] :: tools for feature generation, exploratory graphical analysis, clustering and variable importance quantification for [[http://en.wikipedia.org/wiki/Partial_discharge][partial discharge]] signals.
+- [[http://oscarperpinan.github.io/solar][=solaR=]] :: Calculation methods of solar radiation and performance of photovoltaic systems from daily and intradaily irradiation data sources.
+- [[http://oscarperpinan.github.io/rastervis][=rasterVis=]] :: Complements [[cran.r-project/web/packages/raster][=raster=]] providing a set of methods for enhanced visualization and interaction.
+- [[http://cran.r-project.org/web/packages/pxR][=pxR=]] :: Provides a set of functions for reading and writing PC-Axis files, used by different statistical organizations around the globe for data dissemination.
+- [[http://github.com/oscarperpinan/pdcluster][=pdCluster=]] :: Tools for feature generation, exploratory graphical analysis, clustering and variable importance quantification for [[http://en.wikipedia.org/wiki/Partial_discharge][partial discharge]] signals.
 
 
 * Resources
 - Diapositivas sobre [[http://www.slideshare.net/oscarperpinan][Energía Solar Fotovoltaica]] (spanish)
 - [[http://oscarperpinan.github.io/intro][R tutorial]] (spanish)
+- [[https://gist.github.com/oscarperpinan][Gists]]
 
