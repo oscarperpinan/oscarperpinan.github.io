@@ -53,6 +53,8 @@ R, LaTeX, Emacs enthusiast. Always learning.
 
 
 - [[http://procomun.wordpress.com/documentos/libroesf/][*Energía Solar Fotovoltaica*]] (spanish) ::
+     #+ATTR_HTML: :height 160
+     [[file:img/portadaESF.png]]
      Este libro consta de 9 capítulos que cubren los aspectos más
      importantes de esta tecnología desde el punto de visto de la
      ingeniería de sistemas: geometría y radiación solar,
