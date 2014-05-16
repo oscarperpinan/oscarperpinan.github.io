@@ -52,9 +52,9 @@ R, LaTeX, Emacs enthusiast. Always learning.
      and modify the code to suit your own needs.
 
 
-- [[http://procomun.wordpress.com/documentos/libroesf/][*Energía Solar Fotovoltaica*]] (spanish) ::
+- [[http://github.com/oscarperpinan/esf][*Energía Solar Fotovoltaica*]] (español) ::
      #+ATTR_HTML: :height 160
-     [[file:img/portadaESF.png]]
+     [[https://raw.githubusercontent.com/oscarperpinan/esf/master/figs/portadaESF.png]]
      Este libro consta de 9 capítulos que cubren los aspectos más
      importantes de esta tecnología desde el punto de visto de la
      ingeniería de sistemas: geometría y radiación solar,
@@ -63,10 +63,11 @@ R, LaTeX, Emacs enthusiast. Always learning.
      de electrificación rural, y autónomos de bombeo de agua),
      seguridad eléctrica en sistemas fotovoltaicos, y tiempo de
      recuperación energética. Cuenta con un conjunto de ejercicios
-     resueltos relacionados con cada capítulo. La maduración de este
-     libro se ha realizado en el contexto del [[http://www.eoi.es/portal/guest/cursos?EOI_id_curso%3D42][Máster de Energías
-     Renovables y Mercado Energético de la EOI]] y en los [[http://volta.ieec.uned.es/][cursos de
-     experto profesional]] impartidos por el Departamento de Ingeniería
+     resueltos relacionados con cada capítulo. Todo el material está
+     en [[http://github.com/oscarperpinan/esf][este repositorio GitHub]]. La maduración de este libro se ha
+     realizado en el contexto del [[http://www.eoi.es/portal/guest/cursos?EOI_id_curso%3D42][Máster de Energías Renovables y
+     Mercado Energético de la EOI]] y en los [[http://volta.ieec.uned.es/][cursos de experto
+     profesional]] impartidos por el Departamento de Ingeniería
      Eléctrica, Electrónica y de Control de la ETSII-UNED.  Una
      versión adaptada de este libro fue publicada en 2012 por la
      editorial [[http://www.progensa.es/tienda/portada.php][Progensa]] con el título “[[http://www.fotovoltaica.com/a15ries/esf_imgr-051.pdf][Diseño de Sistemas
