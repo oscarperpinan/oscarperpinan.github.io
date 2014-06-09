@@ -76,6 +76,36 @@ R, LaTeX, Emacs enthusiast. Always learning.
 
 * Papers
 
+- F. Antonanzas-Torres, A. Sanz-Garcia, F. J. Martínez-de-Pisón, O. Perpiñán, J. Polo, *Towards downscaling of aerosol gridded dataset for improving solar resource assessment. Application to Spain*, Renewable Energy, 2014 ::
+
+  Solar radiation estimates with clear sky models require estimations
+  of aerosol data. The low spatial resolution of current aerosol
+  datasets, with their remarkable drift from measured data, poses a
+  problem in solar resource estimation. This paper proposes a new
+  downscaling methodology by combining support vector machines for
+  regression (SVR) and kriging with external drift, with data from the
+  MACC reanalysis datasets and temperature and rainfall measurements
+  from 213 meteorological stations in continental Spain. The SVR
+  technique was proven efficient in aerosol variable modeling. The
+  Linke turbidity factor (TL) and the aerosol optical depth at 550nm
+  (AOD 550) estimated with SVR generated significantly lower errors in
+  AERONET positions than MACC reanalysis estimates. The TL was
+  estimated with relative mean absolute error (rMAE) of 10.2%
+  (compared with AERONET), against the MACC rMAE of 18.5%. A similar
+  behavior was seen with AOD 550, estimated with rMAE of 8.6%
+  (compared with AERONET), against the MACC rMAE of 65.6%. Kriging
+  using MACC data as external drift was found useful in generating
+  high resolution maps (0.05o x0.05o ) of both aerosol variables. We
+  created high resolution maps of aerosol variables in continental
+  Spain for the year 2008. The proposed methodology was proven to be a
+  valuable tool to create high resolution maps of aerosol variables
+  (TL and AOD 550). This methodology shows meaningful improvements
+  when compared with estimated available databases and therefore,
+  leads to more accurate solar resource estimations. This methodology
+  could also be applied to the prediction of other atmospheric
+  variables, whose datasets are of low resolution.
+
+
 - F. Antonanzas-Torres, F.J. Martínez de Pisón, J. Antonanzas, O. Perpiñán, *Downscaling of global solar irradiation in R*, November 2013, [[http://arxiv.org/abs/1311.7235][arXiv:1311.7235]], [[https://github.com/EDMANSolar/downscaling][code]] ::
 
   A methodology for downscaling solar irradiation from
