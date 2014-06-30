@@ -8,7 +8,7 @@
 #+HTML_HEAD: <link rel="icon" type="image/ico" href="favicon.ico">
 
 #+BEGIN_header
-[[http://oscarperpinan.github.io/#sec-1][Books]] [[http://oscarperpinan.github.io/#sec-2][Papers]] [[http://oscarperpinan.github.io/#sec-3][Software]] [[http://oscarperpinan.github.io/#sec-4][Resources]]
+[[http://oscarperpinan.github.io/#books][Books]] [[http://oscarperpinan.github.io/#papers][Papers]] [[http://oscarperpinan.github.io/#software][Software]] [[http://oscarperpinan.github.io/#resources][Resources]]
 
 Photovoltaic and solar energy lecturer ([[http://www.eoi.es][EOI]]). 
 Electrical engineering assistant professor ([[http://www.euiti.upm.es][UPM]]). 
