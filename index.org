@@ -76,7 +76,7 @@ R, LaTeX, Emacs enthusiast. Always learning.
 
 * Papers
 
-- F. Antonanzas-Torres, A. Sanz-Garcia, F. J. Martínez-de-Pisón, O. Perpiñán, J. Polo, *Towards downscaling of aerosol gridded dataset for improving solar resource assessment. Application to Spain*, Renewable Energy, 2014 ::
+- F. Antonanzas-Torres, A. Sanz-Garcia, F. J. Martínez-de-Pisón, O. Perpiñán, J. Polo, *Towards downscaling of aerosol gridded dataset for improving solar resource assessment. Application to Spain*, Renewable Energy, 2014: [[https://copy.com/Gz19eUARoR9Y/preprints/Antonanzas.Sanz-Garcia.ea2014.pdf?download%3D1][pdf]] :: 
 
   Solar radiation estimates with clear sky models require estimations
   of aerosol data. The low spatial resolution of current aerosol
