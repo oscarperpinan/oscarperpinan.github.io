@@ -26,6 +26,9 @@ R, LaTeX, Emacs enthusiast. Always learning.
 #+END_header
 
 * Books
+  :PROPERTIES:
+  :CUSTOM_ID: books
+  :END:
 
 - [[http://www.taylorandfrancis.com/books/details/9781466565203/][*Displaying time series, spatial and space-time data with R*]] ([[http://oscarperpinan.github.io/spacetime-vis][code and figures]]) ::
   #+ATTR_HTML: :height 180
@@ -75,6 +78,9 @@ R, LaTeX, Emacs enthusiast. Always learning.
 
 
 * Papers
+  :PROPERTIES:
+  :CUSTOM_ID: papers
+  :END:
 
 - F. Antonanzas-Torres, A. Sanz-Garcia, F. J. Martínez-de-Pisón, O. Perpiñán, J. Polo, *Towards downscaling of aerosol gridded dataset for improving solar resource assessment. Application to Spain*, Renewable Energy, 2014: [[https://copy.com/Gz19eUARoR9Y/preprints/Antonanzas.Sanz-Garcia.ea2014.pdf?download%3D1][pdf]] :: 
 
@@ -356,6 +362,9 @@ R, LaTeX, Emacs enthusiast. Always learning.
 
 
 * Software
+  :PROPERTIES:
+  :CUSTOM_ID: software
+  :END:
 
 - [[http://oscarperpinan.github.io/solar][=solaR=]] :: Calculation methods of solar radiation and performance of photovoltaic systems from daily and intradaily irradiation data sources.
 - [[http://oscarperpinan.github.io/rastervis][=rasterVis=]] :: Complements [[cran.r-project/web/packages/raster][=raster=]] providing a set of methods for enhanced visualization and interaction.
@@ -364,6 +373,9 @@ R, LaTeX, Emacs enthusiast. Always learning.
 
 
 * Resources
+  :PROPERTIES:
+  :CUSTOM_ID: resources
+  :END:
 - Diapositivas sobre [[http://www.slideshare.net/oscarperpinan][Energía Solar Fotovoltaica]] (spanish)
 - [[http://oscarperpinan.github.io/intro][R tutorial]] (spanish)
 - [[https://gist.github.com/oscarperpinan][Gists]]
