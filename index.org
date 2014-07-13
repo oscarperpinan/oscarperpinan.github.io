@@ -371,7 +371,7 @@ R, LaTeX, Emacs enthusiast. Always learning.
              irradiation data sources.
 - [[http://oscarperpinan.github.io/rastervis][=rasterVis=]] :: Complements [[cran.r-project/web/packages/raster][=raster=]] providing a set of methods for
                  enhanced visualization and interaction.
-- [[https://github.com/oscarperpinan/meteoForecast][=meteoForecast=]] ::   Provides access to forecasts from the
+- [[https://github.com/oscarperpinan/meteoForecast#meteoForecast][=meteoForecast=]] ::   Provides access to forecasts from the
      [[http://www.meteogalicia.es/web/modelos/threddsIndex.action][Meteogalicia]] and [[https://openmeteoforecast.org/wiki/Main_Page][OpenMeteo]] NWP-WRF services using the NetCDF
      Subset Service.
 - [[http://cran.r-project.org/web/packages/pxR][=pxR=]] :: Provides a set of functions for reading and writing PC-Axis
