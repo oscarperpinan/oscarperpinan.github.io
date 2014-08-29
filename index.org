@@ -3,6 +3,7 @@
 #+AUTHOR: Oscar Perpiñán Lamigueiro
 #+OPTIONS:   num:nil toc:nil ^:nil
 #+BIND: org-html-postamble nil
+#+OPTIONS: html-style:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles.css" />
 #+HTML_HEAD: <META NAME="viewport" CONTENT="width=device-width, initial-scale=1">
 #+HTML_HEAD: <link rel="icon" type="image/ico" href="favicon.ico">
@@ -23,6 +24,7 @@ R, LaTeX, Emacs enthusiast. Always learning.
 <a href="http://stackoverflow.com/users/964866/oscar-perpinan"><span class="icon-stackoverflow"></span></a>
 <a href="mailto:&#111;&#115;&#099;&#097;&#114;&#046;&#112;&#101;&#114;&#112;&#105;&#110;&#097;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"><span class="icon-mail"></span></a>
 #+END_HTML
+
 #+END_header
 
 * Books
@@ -55,10 +57,10 @@ R, LaTeX, Emacs enthusiast. Always learning.
      and modify the code to suit your own needs.
 
 
-- [[http://github.com/oscarperpinan/esf][*Energía Solar Fotovoltaica*]] (español) ::
+- [[http://oscarperpinan.github.io/esf][*Energía Solar Fotovoltaica*]] (español) ::
      #+ATTR_HTML: :height 160
      [[https://raw.githubusercontent.com/oscarperpinan/esf/master/figs/portadaESF.png]]
-     Este libro consta de 9 capítulos que cubren los aspectos más
+     Este libro consta de varios capítulos que cubren los aspectos más
      importantes de esta tecnología desde el punto de visto de la
      ingeniería de sistemas: geometría y radiación solar,
      dispositivos, módulos y generadores fotovoltaicos, las tres
@@ -82,8 +84,9 @@ R, LaTeX, Emacs enthusiast. Always learning.
   :CUSTOM_ID: papers
   :END:
 
-- F. Antonanzas-Torres, A. Sanz-Garcia, F. J. Martínez-de-Pisón, O. Perpiñán, J. Polo, *Towards downscaling of aerosol gridded dataset for improving solar resource assessment. Application to Spain*, Renewable Energy, Volume 71, November 2014, Pages 534-544, ISSN 0960-1481, [[http://dx.doi.org/10.1016/j.renene.2014.06.010][10.1016/j.renene.2014.06.010]]: [[https://copy.com/Gz19eUARoR9Y/preprints/Antonanzas.Sanz-Garcia.ea2014.pdf?download%3D1][pdf]] :: 
 
+- F. Antonanzas-Torres, A. Sanz-Garcia, F. J. Martínez-de-Pisón, O. Perpiñán, J. Polo, *Towards downscaling of aerosol gridded dataset for improving solar resource assessment. Application to Spain*, Renewable Energy, Volume 71, November 2014, Pages 534-544, ISSN 0960-1481, [[http://dx.doi.org/10.1016/j.renene.2014.06.010][10.1016/j.renene.2014.06.010]]: [[https://copy.com/Gz19eUARoR9Y/preprints/Antonanzas.Sanz-Garcia.ea2014.pdf?download%3D1][pdf]] ::  
+  #+HTML: <div data-badge-type="2" data-hide-no-mentions='true' data-doi='10.1016/j.renene.2014.06.010'></div>
   Solar radiation estimates with clear sky models require estimations
   of aerosol data. The low spatial resolution of current aerosol
   datasets, with their remarkable drift from measured data, poses a
@@ -113,7 +116,7 @@ R, LaTeX, Emacs enthusiast. Always learning.
 
 
 - F. Antonanzas-Torres, F.J. Martínez de Pisón, J. Antonanzas, O. Perpiñán, *Downscaling of global solar irradiation in R*, November 2013, [[http://arxiv.org/abs/1311.7235][arXiv:1311.7235]], [[https://github.com/EDMANSolar/downscaling][code]] ::
-
+  #+HTML: <div class="altmetric-embed" data-badge-type="2" data-hide-no-mentions='true' data-arxiv-id='1311.7235'></div>   
   A methodology for downscaling solar irradiation from
   satellite-derived databases is described using R software. Different
   packages such as raster, parallel, solaR, gstat, sp and rasterVis
@@ -133,7 +136,7 @@ R, LaTeX, Emacs enthusiast. Always learning.
 
 
 - F. Antonanzas-Torres, A. Sanz-Garcia, F.J. Martínez-de-Pisón, O. Perpiñán, *Evaluation and improvement of empirical models of global solar irradiation: Case study northern Spain*, Renewable Energy, Volume 60, December 2013, Pages 604-614, ISSN 0960-1481, [[%20http://dx.doi.org/10.1016/j.renene.2013.06.008][10.1016/j.renene.2013.06.008]]: [[https://copy.com/Gz19eUARoR9Y/preprints/Antonanzas-Torres.Sanz-Garcia.ea2013.pdf?download=1][pdf]] ::
-
+  #+HTML: <div class="altmetric-embed" data-badge-type="2" data-hide-no-mentions='true' data-doi='10.1016/j.renene.2013.06.008'></div>   
   This paper presents a new methodology to build parametric models to
   estimate global solar irradiation adjusted to specific on-site
   characteristics based on the evaluation of variable
@@ -162,7 +165,7 @@ R, LaTeX, Emacs enthusiast. Always learning.
 
 
 - F. Antoñanzas, F. Cañizares, O. Perpiñán, *Comparative assessment of global irradiation from a satellite estimate model (CM SAF) and on-ground measurements (SIAR): a Spanish case study*, Renewable and Sustainable Energy Reviews, Volume 21, May 2013, Pages 248-261, [[%20http://dx.doi.org/10.1016/j.rser.2012.12.033][10.1016/j.rser.2012.12.033]]: [[https://copy.com/Gz19eUARoR9Y/preprints/Antonanzas.Canizares.ea2013.pdf?download=1][pdf]], [[https://github.com/oscarperpinan/CMSAF-SIAR][code]] ::
-  
+  #+HTML: <div class="altmetric-embed" data-badge-type="2" data-hide-no-mentions='true' data-doi='10.1016/j.rser.2012.12.033'></div>
   An analysis and comparison of daily and yearly solar irradiation
   from the satellite CM SAF database and a set of 301 stations from
   the Spanish SIAR network is performed using data of 2010
@@ -185,7 +188,7 @@ R, LaTeX, Emacs enthusiast. Always learning.
 
 
 - O. Perpiñán, J. Marcos, E. Lorenzo, *Electrical Power Fluctuations in a Network of DC/AC inverters in a Large PV Plant: relationship between correlation, distance and time scale*, Solar Energy, Volume 88, February 2013, [[%20http://dx.doi.org/10.1016/j.solener.2012.1][10.1016/j.solener.2012.1]]: [[https://copy.com/Gz19eUARoR9Y/preprints/Perpinan.Marcos.ea2013.pdf?download=1][pdf]], [[https://github.com/oscarperpinan/wavCorPV][code]] ::
-
+  #+HTML: <div class="altmetric-embed" data-badge-type="2" data-hide-no-mentions='true' data-doi='10.1016/j.solener.2012.1'></div>
   This paper analyzes the correlation between the fluctuations of the
   electrical power generated by the ensemble of 70 DC/AC inverters
   from a 45.6 MW PV plant. The use of real electrical power time
@@ -208,7 +211,7 @@ R, LaTeX, Emacs enthusiast. Always learning.
 
 
 - O. Perpiñán, M.A. Sánchez-Urán, F. Álvarez, J. Ortego, F. Garnacho, *Signal analysis and feature generation for pattern identification of partial discharges in high-voltage equipment*, Electric Power Systems Research, 2013, 95:C (56-65), [[%20http://dx.doi.org/10.1016/j.epsr.2012.08.016][10.1016/j.epsr.2012.08.016]]: [[https://copy.com/Gz19eUARoR9Y/preprints/Perpinan.Sanchez-Uran.ea2013.pdf?download=1][pdf]] ::
-
+  #+HTML: <div class="altmetric-embed" data-badge-type="2" data-hide-no-mentions='true' data-doi='10.1016/j.epsr.2012.08.016'></div>
     This paper proposes a method for the identification of different
   partial discharges (PD) sources through the analysis of a collection
   of PD signals acquired with a PD measurement system. This method,
@@ -250,7 +253,7 @@ R, LaTeX, Emacs enthusiast. Always learning.
 
 
 - O. Perpiñán, *Cost of energy and mutual shadows in a two-axis tracking PV system*, Renewable Energy, 2011, [[%20http://dx.doi.org/10.1016/j.renene.2011.12.001][10.1016/j.renene.2011.12.001]]: [[http://oa.upm.es/10219/1/Optimization_Perpinan2011_rev20120201.pdf][pdf]], [[https://github.com/oscarperpinan/costOptimization][code]] ::
-  
+  #+HTML: <div class='altmetric-embed' data-badge-type="2"  data-hide-no-mentions='true' data-doi='10.1016/j.renene.2011.12.001'></div>
   The performance improvement obtained from the use of trackers in a
   PV system cannot be separated from the higher requirement of land
   due to the mutual shadows between generators. Thus, the optimal
@@ -371,9 +374,8 @@ R, LaTeX, Emacs enthusiast. Always learning.
              irradiation data sources.
 - [[http://oscarperpinan.github.io/rastervis][=rasterVis=]] :: Complements [[cran.r-project/web/packages/raster][=raster=]] providing a set of methods for
                  enhanced visualization and interaction.
-- [[https://github.com/oscarperpinan/meteoForecast#meteoforecast][=meteoForecast=]] ::   Provides access to forecasts from the
-     [[http://www.meteogalicia.es/web/modelos/threddsIndex.action][Meteogalicia]] and [[https://openmeteoforecast.org/wiki/Main_Page][OpenMeteo]] NWP-WRF services using the NetCDF
-     Subset Service.
+- [[https://github.com/oscarperpinan/meteoForecast#meteoforecast][=meteoForecast=]] ::   Provides access to forecasts published by
+     NWP-WRF services using the NetCDF Subset Service.
 - [[http://cran.r-project.org/web/packages/pxR][=pxR=]] :: Provides a set of functions for reading and writing PC-Axis
            files, used by different statistical organizations around
            the globe for data dissemination.
@@ -387,6 +389,5 @@ R, LaTeX, Emacs enthusiast. Always learning.
   :CUSTOM_ID: resources
   :END:
 - Meteorological Data Sources ([[https://github.com/oscarperpinan/mds/wiki][wiki]])
-- Diapositivas sobre [[http://www.slideshare.net/oscarperpinan][Energía Solar Fotovoltaica]] (spanish)
-- [[http://oscarperpinan.github.io/intro][R tutorial]] (spanish)
+- [[http://oscarperpinan.github.io/intro][Introducción a R]] (spanish)
 - [[https://gist.github.com/oscarperpinan][Gists]]
