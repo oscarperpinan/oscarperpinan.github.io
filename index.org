@@ -12,8 +12,8 @@
 #+BEGIN_header
 [[http://oscarperpinan.github.io/#books][Books]] [[http://oscarperpinan.github.io/#papers][Papers]] [[http://oscarperpinan.github.io/#software][Software]] [[http://oscarperpinan.github.io/#resources][Resources]]
 
-Photovoltaic and solar energy lecturer ([[http://www.eoi.es][EOI]]). 
 Electrical engineering assistant professor ([[http://www.euiti.upm.es][UPM]]). 
+Photovoltaic and solar energy lecturer ([[http://www.eoi.es][EOI]]). 
 R, LaTeX, Emacs enthusiast. Always learning.
 
 #+BEGIN_HTML
