@@ -47,7 +47,7 @@ R, LaTeX, Emacs enthusiast. Always learning.
   :CUSTOM_ID: papers
   :END:
 
-- M. Pinho Almeida, O. Perpiñán, L. Narvarte, *PV Power Forecast Using a Nonparametric PV Model Solar Energy*. Solar Energy 115 (May): 354–68. doi:10.1016/j.solener.2015.03.006 : [[file:papers/Pinho.Perpinan.ea2014.pdf][pdf]], [[https://github.com/iesiee/PVF][code]] ::
+- M. Pinho Almeida, O. Perpiñán, L. Narvarte, *PV Power Forecast Using a Nonparametric PV Model*. Solar Energy 115 (May): 354–68. [[http://dx.doi.org/10.1016/j.solener.2015.03.006][10.1016/j.solener.2015.03.006]] : [[file:papers/Pinho.Perpinan.ea2014.pdf][pdf]], [[https://github.com/iesiee/PVF][code]] ::
 
   Forecasting the AC power output of a PV plant accurately is important both for plant owners and electric system operators. Two main categories of PV modeling are available: the parametric and the nonparametric. In this paper, a methodology using a nonparametric PV model is proposed, using as inputs several forecasts of meteorological variables from a Numerical Weather Forecast model, and actual AC power measurements of PV plants. The methodology was built upon the R environment and uses Quantile Regression Forests as machine learning tool to forecast AC power with a confidence interval. Real data from five PV plants was used to validate the methodology, and results show that daily production is predicted with an absolute cvMBE lower than 1.3%. 
 
