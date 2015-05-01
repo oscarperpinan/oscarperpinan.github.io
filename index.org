@@ -12,9 +12,7 @@
 #+BEGIN_header
 [[http://oscarperpinan.github.io/#books][Books]] [[http://oscarperpinan.github.io/#papers][Papers]] [[http://oscarperpinan.github.io/#software][Software]] [[http://oscarperpinan.github.io/#resources][Resources]]
 
-Electrical engineering assistant professor ([[http://www.euiti.upm.es][UPM]]). 
-Photovoltaic and solar energy lecturer ([[http://www.eoi.es][EOI]]). 
-R, LaTeX, Emacs enthusiast. Always learning.
+Associate Professor at [[http://www.etsidi.upm.es/ETSIDI][UPM]] (Electrical Engineering, Photovoltaic and Solar Energy). [[http://www.r-project.org/][R]] and [[http://www.gnu.org/software/emacs/][Emacs]] enthusiast. Always learning.
 
 #+BEGIN_HTML
 <a href="http://procomun.wordpress.com"><span class="icon-wordpress"></span></a>
