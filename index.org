@@ -125,3 +125,4 @@ Associate Professor at [[http://www.etsidi.upm.es/ETSIDI][UPM]] (Electrical Engi
 - Meteorological Data Sources ([[https://github.com/oscarperpinan/mds/wiki][wiki]])
 - [[http://oscarperpinan.github.io/intro][Introducción a R]] (spanish)
 - [[https://gist.github.com/oscarperpinan][Gists]]
+- [[https://github.com/oscarperpinan/fvred/raw/master/SFVRed.pdf][Proyecto de Investigación]] "Sistemas Fotovoltaicos en Redes de Distribución"
