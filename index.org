@@ -14,7 +14,7 @@
 
 Associate Professor at [[http://www.etsidi.upm.es/ETSIDI][UPM]] (Electrical Engineering, Photovoltaic and Solar Energy). [[http://www.r-project.org/][R]] and [[http://www.gnu.org/software/emacs/][Emacs]] enthusiast. Always learning.
 
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 <a href="http://procomun.wordpress.com"><span class="icon-wordpress"></span></a>
 <a href="https://github.com/oscarperpinan/"><span class="icon-github"></span></a>
 <a href="http://scholar.google.es/citations?user=FvyzSYIAAAAJ"><span class="icon-google"></span></a>
@@ -22,7 +22,7 @@ Associate Professor at [[http://www.etsidi.upm.es/ETSIDI][UPM]] (Electrical Engi
 <a href="https://twitter.com/oscarperpinan"><span class="icon-twitter"></span></a>
 <a href="http://stackoverflow.com/users/964866/oscar-perpinan"><span class="icon-stackoverflow"></span></a>
 <a href="mailto:&#111;&#115;&#099;&#097;&#114;&#046;&#112;&#101;&#114;&#112;&#105;&#110;&#097;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"><span class="icon-mail"></span></a>
-#+END_HTML
+#+END_EXPORT
 #+END_header
 
 * Books
@@ -135,6 +135,6 @@ Associate Professor at [[http://www.etsidi.upm.es/ETSIDI][UPM]] (Electrical Engi
   :CUSTOM_ID: resources
   :END:
 - Meteorological Data Sources ([[https://github.com/oscarperpinan/mds/wiki][wiki]])
-- [[http://oscarperpinan.github.io/intro][Introducción a R]] (spanish)
+- [[http://oscarperpinan.github.io/R][Introducción a R]] (spanish)
 - [[https://gist.github.com/oscarperpinan][Gists]]
 - [[https://github.com/oscarperpinan/fvred/raw/master/SFVRed.pdf][Proyecto de Investigación]] "Sistemas Fotovoltaicos en Redes de Distribución"
