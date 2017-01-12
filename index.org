@@ -109,13 +109,21 @@ Associate Professor at [[http://www.etsidi.upm.es/ETSIDI][UPM]] (Electrical Engi
   This study develops a proposal of method of calculation useful to estimate the energy produced by a PV grid-connected system making use of irradiance-domain integrals and definition of statistical moment. Validation against database of real PV plants performance data shows that acceptable energy estimation can be obtained with first to fourth statistical moments and some basic system parameters. This way, only simple calculations at the reach of pocket calculators, are enough to estimate AC energy.
 
 
-* Software [[http://depsy.org/person/330005][http://depsy.org/api/person/330005/badge.svg]]
+* Software
   :PROPERTIES:
   :CUSTOM_ID: software
   :END:
-- [[http://oscarperpinan.github.io/solar][=solaR=]] :: Calculation methods of solar radiation and performance of photovoltaic systems from daily and intradaily irradiation data sources.  [[http://depsy.org/package/r/solaR][http://depsy.org/api/package/cran/solaR/badge.svg]] 
-- [[http://oscarperpinan.github.io/rastervis][=rasterVis=]] :: Methods for enhanced visualization and interaction with [[http://cran.r-project.org/web/packages/raster/][raster]] data.  [[http://depsy.org/package/r/rasterVis][http://depsy.org/api/package/cran/rasterVis/badge.svg]] 
-- [[https://github.com/oscarperpinan/meteoForecast#meteoforecast][=meteoForecast=]] :: Provides access to forecasts published by NWP-WRF services using the NetCDF Subset Service.  [[http://depsy.org/package/r/meteoForecast][http://depsy.org/api/package/cran/meteoForecast/badge.svg]] 
+
+#+BEGIN_EXPORT html
+<a href="http://depsy.org/person/330005">
+    <img src="http://depsy.org/api/person/330005/badge.svg">
+</a>
+<br>
+#+END_EXPORT
+
+- [[http://oscarperpinan.github.io/solar][=solaR=]] :: Calculation methods of solar radiation and performance of photovoltaic systems from daily and intradaily irradiation data sources. 
+- [[http://oscarperpinan.github.io/rastervis][=rasterVis=]] :: Methods for enhanced visualization and interaction with [[http://cran.r-project.org/web/packages/raster/][raster]] data. 
+- [[https://github.com/oscarperpinan/meteoForecast#meteoforecast][=meteoForecast=]] :: Provides access to forecasts published by NWP-WRF services using the NetCDF Subset Service.
 - [[https://github.com/iesiee/PVF][=PVF=]] :: Non-parametric forecast of AC power produced by grid-connected PV systems. This package has been developed in the framework of the European Project [[http://www.pvcrops.eu/][PVCROPS]]
 - [[https://github.com/oscarperpinan/tdr#target-diagrams][=tdr=]] :: R implementation of Target Diagrams.
 - [[http://cran.r-project.org/web/packages/pxR][=pxR=]] :: Provides a set of functions for reading and writing PC-Axis files, used by different statistical organizations around the globe for data dissemination.
