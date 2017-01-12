@@ -40,14 +40,11 @@ Associate Professor at [[http://www.etsidi.upm.es/ETSIDI][UPM]] (Electrical Engi
      [[https://raw.githubusercontent.com/oscarperpinan/esf/master/figs/portadaESF.png]] Este libro consta de varios capítulos que cubren los aspectos más importantes de esta tecnología desde el punto de visto de la ingeniería de sistemas: geometría y radiación solar, dispositivos, módulos y generadores fotovoltaicos, las tres principales aplicaciones (sistemas de conexión a red, autónomos de electrificación rural, y autónomos de bombeo de agua), seguridad eléctrica en sistemas fotovoltaicos, y tiempo de recuperación energética. Cuenta con un conjunto de ejercicios resueltos relacionados con cada capítulo. Todo el material está en [[http://github.com/oscarperpinan/esf][este repositorio GitHub]]. La maduración de este libro se ha realizado en el contexto del [[http://www.eoi.es/portal/guest/cursos?EOI_id_curso%3D42][Máster de Energías Renovables y Mercado Energético de la EOI]] y en los [[http://volta.ieec.uned.es/][cursos de experto profesional]] impartidos por el Departamento de Ingeniería Eléctrica, Electrónica y de Control de la ETSII-UNED.  Una versión adaptada de este libro fue publicada en 2012 por la editorial [[http://www.progensa.es/tienda/portada.php][Progensa]] con el título “[[http://www.censolar.org/infdisfv.htm][Diseño de Sistemas Fotovoltaicos]]” y con licencia Creative Commons.
 
 
-* Journal Papers and Book Chapters 
+* Journal Papers and Book Chapters [[http://orcid.org/0000-0002-4134-7196][http://orcid.org/sites/default/files/images/orcid_24x24.png]]
   :PROPERTIES:
   :CUSTOM_ID: papers
   :END:
-#+BEGIN_EXPORT html
-<a href="http://orcid.org/0000-0002-4134-7196"><img alt="ORCID logo" src="http://orcid.org/sites/default/files/images/orcid_24x24.png" width="24" height="24" /></a>
-<br>
-#+END_EXPORT
+
 - Muñoz, J., O. Perpiñán, *A Simple Model for the Prediction of Yearly Energy Yields for Grid-Connected PV Systems Starting from Monthly Meteorological Data*. Renewable Energy 97, 2016: 680–88. [[http://dx.doi.org/10.1016/j.renene.2016.06.023][10.1016/j.renene.2016.06.023]] ::
 
   This paper presents a simple model, called Clear-cloudy sky, which estimates yearly energy yields for PV systems starting from the twelve monthly values of global horizontal solar irradiation, diffuse fraction, Linke turbidity and minimum and maximum ambient temperatures. The proposed model has been included in an online and free-software simulator of PV systems, called SISIFO, which has been used to analyse the performance of the model in comparison with other synthetic models using as reference the typical meteorological years (TMY3) of more than two hundred Class I stations belonging to the NREL American National Solar Radiation database. The results of this comparison show that the model provides yearly predictions on PV system performance parameters that have low bias and uncertainty with respect to the same figures obtained with the original TMY3 hourly time series.
@@ -112,20 +109,15 @@ Associate Professor at [[http://www.etsidi.upm.es/ETSIDI][UPM]] (Electrical Engi
   This study develops a proposal of method of calculation useful to estimate the energy produced by a PV grid-connected system making use of irradiance-domain integrals and definition of statistical moment. Validation against database of real PV plants performance data shows that acceptable energy estimation can be obtained with first to fourth statistical moments and some basic system parameters. This way, only simple calculations at the reach of pocket calculators, are enough to estimate AC energy.
 
 
-* Software
+* Software [[http://depsy.org/person/330005][http://depsy.org/api/person/330005/badge.svg]]
   :PROPERTIES:
   :CUSTOM_ID: software
   :END:
-#+BEGIN_EXPORT html
-<a href="http://depsy.org/person/330005">
-    <img src="http://depsy.org/api/person/330005/badge.svg">
-</a>
-<br>
-#+END_EXPORT
-- [[http://oscarperpinan.github.io/solar][=solaR=]] :: Calculation methods of solar radiation and performance of photovoltaic systems from daily and intradaily irradiation data sources.
-- [[http://oscarperpinan.github.io/rastervis][=rasterVis=]] :: Methods for enhanced visualization and interaction with [[http://cran.r-project.org/web/packages/raster/][raster]] data.
-- [[https://github.com/oscarperpinan/meteoForecast#meteoforecast][=meteoForecast=]] ::   Provides access to forecasts published by NWP-WRF services using the NetCDF Subset Service.
+- [[http://oscarperpinan.github.io/solar][=solaR=]] :: Calculation methods of solar radiation and performance of photovoltaic systems from daily and intradaily irradiation data sources.  [[http://depsy.org/package/r/solaR][http://depsy.org/api/package/cran/solaR/badge.svg]] 
+- [[http://oscarperpinan.github.io/rastervis][=rasterVis=]] :: Methods for enhanced visualization and interaction with [[http://cran.r-project.org/web/packages/raster/][raster]] data.  [[http://depsy.org/package/r/rasterVis][http://depsy.org/api/package/cran/rasterVis/badge.svg]] 
+- [[https://github.com/oscarperpinan/meteoForecast#meteoforecast][=meteoForecast=]] :: Provides access to forecasts published by NWP-WRF services using the NetCDF Subset Service.  [[http://depsy.org/package/r/meteoForecast][http://depsy.org/api/package/cran/meteoForecast/badge.svg]] 
 - [[https://github.com/iesiee/PVF][=PVF=]] :: Non-parametric forecast of AC power produced by grid-connected PV systems. This package has been developed in the framework of the European Project [[http://www.pvcrops.eu/][PVCROPS]]
+- [[https://github.com/oscarperpinan/tdr#target-diagrams][=tdr=]] :: R implementation of Target Diagrams.
 - [[http://cran.r-project.org/web/packages/pxR][=pxR=]] :: Provides a set of functions for reading and writing PC-Axis files, used by different statistical organizations around the globe for data dissemination.
 - [[http://github.com/oscarperpinan/pdcluster][=pdCluster=]] :: Tools for feature generation, exploratory graphical analysis, clustering and variable importance quantification for [[http://en.wikipedia.org/wiki/Partial_discharge][partial discharge]] signals.
 
