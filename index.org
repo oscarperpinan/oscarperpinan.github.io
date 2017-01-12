@@ -44,10 +44,10 @@ Associate Professor at [[http://www.etsidi.upm.es/ETSIDI][UPM]] (Electrical Engi
   :PROPERTIES:
   :CUSTOM_ID: papers
   :END:
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 <a href="http://orcid.org/0000-0002-4134-7196"><img alt="ORCID logo" src="http://orcid.org/sites/default/files/images/orcid_24x24.png" width="24" height="24" /></a>
 <br>
-#+END_HTML
+#+END_EXPORT
 - Muñoz, J., O. Perpiñán, *A Simple Model for the Prediction of Yearly Energy Yields for Grid-Connected PV Systems Starting from Monthly Meteorological Data*. Renewable Energy 97, 2016: 680–88. [[http://dx.doi.org/10.1016/j.renene.2016.06.023][10.1016/j.renene.2016.06.023]] ::
 
   This paper presents a simple model, called Clear-cloudy sky, which estimates yearly energy yields for PV systems starting from the twelve monthly values of global horizontal solar irradiation, diffuse fraction, Linke turbidity and minimum and maximum ambient temperatures. The proposed model has been included in an online and free-software simulator of PV systems, called SISIFO, which has been used to analyse the performance of the model in comparison with other synthetic models using as reference the typical meteorological years (TMY3) of more than two hundred Class I stations belonging to the NREL American National Solar Radiation database. The results of this comparison show that the model provides yearly predictions on PV system performance parameters that have low bias and uncertainty with respect to the same figures obtained with the original TMY3 hourly time series.
@@ -116,12 +116,12 @@ Associate Professor at [[http://www.etsidi.upm.es/ETSIDI][UPM]] (Electrical Engi
   :PROPERTIES:
   :CUSTOM_ID: software
   :END:
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 <a href="http://depsy.org/person/330005">
     <img src="http://depsy.org/api/person/330005/badge.svg">
 </a>
 <br>
-#+END_HTML
+#+END_EXPORT
 - [[http://oscarperpinan.github.io/solar][=solaR=]] :: Calculation methods of solar radiation and performance of photovoltaic systems from daily and intradaily irradiation data sources.
 - [[http://oscarperpinan.github.io/rastervis][=rasterVis=]] :: Methods for enhanced visualization and interaction with [[http://cran.r-project.org/web/packages/raster/][raster]] data.
 - [[https://github.com/oscarperpinan/meteoForecast#meteoforecast][=meteoForecast=]] ::   Provides access to forecasts published by NWP-WRF services using the NetCDF Subset Service.
