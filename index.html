@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-06-25 jue 09:28 -->
+<!-- 2022-02-22 mar 19:24 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Oscar Perpiñán Lamigueiro</title>
@@ -16,56 +16,32 @@
 <link rel="icon" type="image/ico" href="favicon.ico">
 <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-57343741-1', 'auto');  ga('send', 'pageview');</script>
 <script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2020 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
+// @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&amp;dn=gpl-3.0.txt GPL-v3-or-Later
 <!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
 </script>
 </head>
 <body>
 <div id="content">
 <h1 class="title">Oscar Perpiñán Lamigueiro</h1>
-<div class="header">
+<div class="header" id="org39da61f">
 <p>
 <a href="https://oscarperpinan.github.io/#books">Books</a> <a href="https://oscarperpinan.github.io/#papers">Papers</a> <a href="https://oscarperpinan.github.io/#software">Software</a> <a href="https://oscarperpinan.github.io/#resources">Resources</a>
 </p>
@@ -83,7 +59,7 @@ Associate Professor at <a href="http://www.etsidi.upm.es/ETSIDI">UPM</a> (Electr
 
 </div>
 
-<div id="outline-container-org833dedf" class="outline-2">
+<div id="outline-container-books" class="outline-2">
 <h2 id="books">Books</h2>
 <div class="outline-text-2" id="text-books">
 <dl class="org-dl">
@@ -98,16 +74,18 @@ Associate Professor at <a href="http://www.etsidi.upm.es/ETSIDI">UPM</a> (Electr
 </div>
 
 
-<div id="outline-container-orgd618b02" class="outline-2">
+<div id="outline-container-papers" class="outline-2">
 <h2 id="papers">Journal Papers and Book Chapters <a href="http://orcid.org/0000-0002-4134-7196"><img src="http://orcid.org/sites/default/files/images/orcid_24x24.png" alt="orcid_24x24.png" /></a></h2>
 <div class="outline-text-2" id="text-papers">
 <dl class="org-dl">
+<dt>Uruel-Sanz, J. and Perpiñán-Lamigueiro, O., <b>Power Flow Analysis in Urban Distribution Networks with Implementation of Grid-Connected Photovoltaic Systems</b>, Solar 2022, 2, 32-51. <a href="https://doi.org/10.3390/solar2010003">https://doi.org/10.3390/solar2010003</a> (<a href="https://github.com/Juliauru/SGDenBT">code</a>)</dt><dd>In the last few years, renewable energies became more socially and economically relevant, and among them, photovoltaic systems stand out. Residential self-consumption of electricity is a field with great potential, and implementation of grid-connected photovoltaic systems (GCPS) is in full rise. The installation of distributed generation systems in residential environments could alter the performance of low-voltage distribution networks, since these are designed for unidirectional power flow and adding these generators means fluctuations in power-flows. For these reasons, a study of the fundamental magnitudes of three low-voltage distribution networks located in Madrid was made for various photovoltaic penetration rates, making use of simulations via the software OpenDSS and subsequent analysis of results. The research concludes that, among other aspects, GCPS produce load flow variations that are dependent on: the penetration rates; the distance from the point of interest and the distribution transformer, increasing the voltage variation between the most productive hours and the night hours with that distance; and on the rate between consumption and generation, so that when it diminishes, the self-sufficiency of the system increases, and with it the voltage of all the buses that tend to the rated voltage. Moreover, there are wide seasonal fluctuations: specifically, in summer months, generation profiles override consumption fluctuations, while in winter months consumption guides voltage and power profiles. Both the code implemented and the results of the analysis were published in an open source website using a free software license.</dd>
+
 <dt>Yang, D. et al. <b>Verification of deterministic solar forecasts</b>, Solar Energy, 2020. <a href="https://doi.org/10.1016/j.solener.2020.04.019">https://doi.org/10.1016/j.solener.2020.04.019</a></dt><dd>The field of energy forecasting has attracted many researchers from different fields (e.g., meteorology, data sciences, mechanical or electrical engineering) over the last decade. Solar forecasting is a fast-growing subdomain of energy forecasting. Despite several previous attempts, the methods and measures used for verification of deterministic (also known as single-valued or point) solar forecasts are still far from being standardized, making forecast analysis and comparison difficult. To analyze and compare solar forecasts, the well-established Murphy–Winkler framework for distribution-oriented forecast verification is recommended as a standard practice. This framework examines aspects of forecast quality, such as reliability, resolution, association, or discrimination, and analyzes the joint distribution of forecasts and observations, which contains all time-independent information relevant to verification. To verify forecasts, one can use any graphical display or mathematical/statistical measure to provide insights and summarize the aspects of forecast quality. The majority of graphical methods and accuracy measures known to solar forecasters are specific methods under this general framework. Additionally, measuring the overall skillfulness of forecasters is also of general interest. The use of the root mean square error (RMSE) skill score based on the optimal convex combination of climatology and persistence methods is highly recommended. By standardizing the accuracy measure and reference forecasting method, the RMSE skill score allows—with appropriate caveats—comparison of forecasts made using different models, across different locations and time periods.</dd>
 </dl>
 
 
 <dl class="org-dl">
-<dt>Antonanzas, J., Perpinan-Lamigueiro, O., Urraca, R., Antonanzas-Torres, F., <b>Influence of electricity market structures on deterministic solar forecasting verification</b>. Solar Energy, 2020. <a href="https://doi.org/10.1016/j.solener.2020.04.017">https://doi.org/10.1016/j.solener.2020.04.017</a></dt><dd></dd>
+<dt>J. Antonanzas, O. Perpiñán-Lamigueiro, R. Urraca, F. Antonanzas-Torres, <b>Influence of electricity market structures on deterministic solar forecasting verification</b>. Solar Energy, 2020. <a href="https://doi.org/10.1016/j.solener.2020.04.017">https://doi.org/10.1016/j.solener.2020.04.017</a></dt><dd></dd>
 </dl>
 
 
@@ -218,7 +196,7 @@ Associate Professor at <a href="http://www.etsidi.upm.es/ETSIDI">UPM</a> (Electr
 </div>
 
 
-<div id="outline-container-org6da9de5" class="outline-2">
+<div id="outline-container-software" class="outline-2">
 <h2 id="software">Software</h2>
 <div class="outline-text-2" id="text-software">
 <dl class="org-dl">
@@ -233,7 +211,7 @@ Associate Professor at <a href="http://www.etsidi.upm.es/ETSIDI">UPM</a> (Electr
 </div>
 
 
-<div id="outline-container-org75c9dfc" class="outline-2">
+<div id="outline-container-resources" class="outline-2">
 <h2 id="resources">Resources</h2>
 <div class="outline-text-2" id="text-resources">
 <ul class="org-ul">
