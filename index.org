@@ -159,5 +159,5 @@ Associate Professor at [[http://www.etsidi.upm.es/ETSIDI][UPM]] (Electrical Engi
 - Meteorological Data Sources ([[https://github.com/oscarperpinan/mds/wiki][wiki]])
 - [[https://oscarperpinan.github.io/R][Introducción a R]] 
 - [[https://github.com/oscarperpinan/informatica_etsidi][Programación en C]]
-- [[https://github.com/oscarperpinan/tc][Teoría de Circuitos]]
+- [[https://github.com/ETSIDI-IE/tc][Teoría de Circuitos]]
 - [[https://gist.github.com/oscarperpinan][Gists]]
